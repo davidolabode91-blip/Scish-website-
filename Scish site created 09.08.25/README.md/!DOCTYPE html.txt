@@ -1,0 +1,20 @@
+# Scish Landing Page
+
+This is the landing page for Scish — a platform for scientific collaboration and innovation.
+
+## Structure
+
+- `index.html`: Main landing page
+- `assets/css/style.css`: Styling
+- `assets/js/script.js`: Basic JS
+- `assets/images/logo.png`: Placeholder logo
+
+## How to Use
+
+1. Clone or download the repository
+2. Open `index.html` in your browser
+3. Customize as needed
+
+## License
+
+MIT

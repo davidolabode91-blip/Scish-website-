@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Scish</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header>
+    <img src="assets/images/logo.png" alt="Scish Logo" class="logo" />
+    <h1>Welcome to Scish</h1>
+    <p>Your gateway to scientific discovery and innovation.</p>
+  </header>
+  <main>
+    <section>
+      <h2>About Scish</h2>
+      <p>Scish is a platform designed to streamline scientific collaboration, data sharing, and innovation.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Scish. All rights reserved.</p>
+  </footer>
+  <script src="assets/js/script.js"></script>
+</body>
+</html>
